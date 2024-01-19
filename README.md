@@ -43,7 +43,7 @@ if you have any question you can contact me on Linkedin:https://www.linkedin.com
 ![Capture d’écran 2024-01-20 023924](https://github.com/Amnay-Mou/AI-Handwriting-Detection-emotions-Color-Detection-Gender-Age-Detection-Emotion/assets/112958107/3e66cce2-9aac-4721-bd91-754b389635d2)
 
 
-**Manual Check:**
+**Manual Check:**( in this part you can find recorded video of each tools in the programme and how to use it )
 
 ![Capture d’écran 2024-01-20 025026](https://github.com/Amnay-Mou/AI-Handwriting-Detection-emotions-Color-Detection-Gender-Age-Detection-Emotion/assets/112958107/cfb67252-b822-4ceb-ba9c-10e8824e55ea)
 
